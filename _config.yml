@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chen Chen"
   avatar           : "c.chen.png"
-  bio              : "a Ph.D candidate in ZJU"
+  bio              : "Ph.D Student"
   location         : "Hangzhou, Zhejiang"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -201,7 +201,7 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
+      related: false
   # _pages
   - scope:
       path: ""
