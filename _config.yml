@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Chen Chen"
-  avatar           : "c.chen.png"
-  bio              : "Ph.D Student"
-  location         : "Hangzhou, Zhejiang"
-  employer         :
+  avatar           : "c.chen.jpg"
+  bio              : "Ph.D Student <br/> College of Integrated Circuits <br/> Zhejiang University"
+  location         : "Hangzhou"
+  employer         : # "Zhejiang University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :  #"http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=LYfJAxwAAAAJ&view_op=list_works&gmla=ABOlHixRc_ZRLQr9ESSeTPGna3sdLYckac7nLJv33GMcKFwM8cSz8Kw_OlGMlM0-bIOhWOadMmixhAFtMvpTmDZFbtPX7WuOaxA2TgQlGc8"
+  email            : "c.chen@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
